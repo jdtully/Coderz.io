@@ -1,0 +1,11 @@
+body {
+    background-image: url("../images/turtles.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pageheader {
+    font-size: 50px;
+    color: black;
+    background-color: bisque
+}
